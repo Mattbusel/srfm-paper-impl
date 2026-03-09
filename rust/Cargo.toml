@@ -1,0 +1,8 @@
+[package]
+name = "srfm-paper-impl"
+version = "0.1.0"
+edition = "2021"
+description = "Rust demo: SRFM beta/gamma/spacetime-interval calculations from the paper"
+
+[dependencies]
+# No external dependencies — pure Rust demonstration of core formulas
